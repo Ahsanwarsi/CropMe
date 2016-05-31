@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CropMe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Cropper -->
+    <string name="cropper_title">Edit Photo</string>
+
+    <string name="image_selection_camera">Camera</string>
+    <string name="image_selection_gallery">Gallery</string>
+
+
+</resources>

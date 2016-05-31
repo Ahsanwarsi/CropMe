@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_blue">#c7004fd9</color>
+    <color name="theme_blue_dark">@color/colorPrimaryDark</color>
+    <color name="theme_white">#FFFFFF</color>
+    <color name="theme_cropper_bg">#ff282828</color>
+
+    <color name="colorPrimary">#E3E3E3</color>
+    <color name="colorPrimaryDark">#fb004cd0</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#CCCCCC</color>
+</resources>
